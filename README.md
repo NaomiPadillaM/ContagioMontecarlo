@@ -10,18 +10,18 @@ En el archivo *MonteCarlo_Mexico.ipynb* se realizó la implementación de este m
 ### +Caso A: Población Distribuida uniformemente
 ...Simulación de 365 días: 
 
-<iframe width=50% height=50% src="https://www.youtube.com/embed/mel1g1ueas4" title="Simulación A con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="280" src="https://www.youtube.com/embed/mel1g1ueas4" title="Simulación A con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### +Caso B: Población Distrbuida por Estados
 ...Simulación de 365 días: 
-<iframe width=50% height=50% src="https://www.youtube.com/embed/tf1H5c03MqM" title="Simulación B con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="280" src="https://www.youtube.com/embed/tf1H5c03MqM" title="Simulación B con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### +Caso C: Población Distribuida en Ciudades distribuidas uniformemente
 ...Simulación de 365 días:
-<iframe width=50% height=50% src="https://www.youtube.com/embed/KI_kMKirYDs" title="Simulación C con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="280" src="https://www.youtube.com/embed/KI_kMKirYDs" title="Simulación C con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### +Caso D: Población Distribuida en Ciudades distribuidas por Estados
 ...Simulación de 365 días: 
-<iframe width=50% height=50% src="https://www.youtube.com/embed/YcZ_2sOUWik" title="Simulación D con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="280" src="https://www.youtube.com/embed/YcZ_2sOUWik" title="Simulación D con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
