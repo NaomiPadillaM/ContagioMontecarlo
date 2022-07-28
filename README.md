@@ -8,20 +8,20 @@ En este [link](https://adrian-landaverde.shinyapps.io/ContagioEpidemia/) podemos
 En el archivo *MonteCarlo_Mexico.ipynb* se realizó la implementación de este método en una representación geográfica de México y se generaron las siguientes simulaciones:
 
 ### Caso A: Población Distribuida uniformemente
-...Simulación de 365 días: 
+Simulación de 365 días: 
 
 <iframe width="340" height="280" src="https://www.youtube.com/embed/mel1g1ueas4" title="Simulación A con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Caso B: Población Distrbuida por Estados
-...Simulación de 365 días: 
+Simulación de 365 días: 
 <iframe width="340" height="280" src="https://www.youtube.com/embed/tf1H5c03MqM" title="Simulación B con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Caso C: Población Distribuida en Ciudades distribuidas uniformemente
-...Simulación de 365 días:
+Simulación de 365 días:
 <iframe width="340" height="280" src="https://www.youtube.com/embed/KI_kMKirYDs" title="Simulación C con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Caso D: Población Distribuida en Ciudades distribuidas por Estados
-...Simulación de 365 días: 
+Simulación de 365 días: 
 <iframe width="340" height="280" src="https://www.youtube.com/embed/YcZ_2sOUWik" title="Simulación D con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
